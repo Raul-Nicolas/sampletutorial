@@ -1,2 +1,2 @@
-#MyApp
-This is my app 
+#First attempt
+Trying markdown with atom
